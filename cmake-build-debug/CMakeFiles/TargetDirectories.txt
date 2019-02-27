@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Devin/sync/Programming/Schoolwork/CS2400_Projects/c-2nd-lang/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Devin/sync/Programming/Schoolwork/CS2400_Projects/c-2nd-lang/cmake-build-debug/CMakeFiles/casst.dir
+/cygdrive/c/Users/Devin/sync/Programming/Schoolwork/CS2400_Projects/c-2nd-lang/cmake-build-debug/CMakeFiles/edit_cache.dir

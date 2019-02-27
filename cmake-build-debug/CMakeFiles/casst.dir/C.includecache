@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Devin/sync/Programming/Schoolwork/CS2400_Projects/c-2nd-lang/main.c
+stdio.h
+-
+stdlib.h
+-
+
