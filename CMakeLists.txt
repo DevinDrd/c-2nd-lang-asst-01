@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.13)
-project(c-2nd-lang-asst-01 C)
+project(c_2nd_lang_asst_01 C)
 
-set(CMAKE_C_STANDARD 11)
+set(CMAKE_C_STANDARD 99)
 
-add_executable(casst main.c)
+add_executable(c_2nd_lang_asst_01 main.c)

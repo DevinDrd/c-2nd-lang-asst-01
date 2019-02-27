@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/c_2nd_lang_asst_01.dir/main.c.o  -o c_2nd_lang_asst_01.exe -Wl,--out-implib,libc_2nd_lang_asst_01.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

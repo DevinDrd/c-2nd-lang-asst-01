@@ -48,10 +48,10 @@ RM = /cygdrive/c/Users/Devin/.CLion2018.3/system/cygwin_cmake/bin/cmake.exe -E r
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /cygdrive/c/Users/Devin/sync/Programming/Schoolwork/CS2400_Projects/c-2nd-lang
+CMAKE_SOURCE_DIR = /cygdrive/c/Users/Devin/sync/Programming/Schoolwork/CS2400_Projects/c-2nd-lang-asst-01
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /cygdrive/c/Users/Devin/sync/Programming/Schoolwork/CS2400_Projects/c-2nd-lang/cmake-build-debug
+CMAKE_BINARY_DIR = /cygdrive/c/Users/Devin/sync/Programming/Schoolwork/CS2400_Projects/c-2nd-lang-asst-01/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Devin/sync/Programming/Schoolwork/CS2400_Projects/c-2nd-lang/cmake-build-debug/CMakeFiles /cygdrive/c/Users/Devin/sync/Programming/Schoolwork/CS2400_Projects/c-2nd-lang/cmake-build-debug/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Devin/sync/Programming/Schoolwork/CS2400_Projects/c-2nd-lang-asst-01/cmake-build-debug/CMakeFiles /cygdrive/c/Users/Devin/sync/Programming/Schoolwork/CS2400_Projects/c-2nd-lang-asst-01/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Devin/sync/Programming/Schoolwork/CS2400_Projects/c-2nd-lang/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/c/Users/Devin/sync/Programming/Schoolwork/CS2400_Projects/c-2nd-lang-asst-01/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -111,17 +111,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named casst
+# Target rules for targets named c_2nd_lang_asst_01
 
 # Build rule for target.
-casst: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 casst
-.PHONY : casst
+c_2nd_lang_asst_01: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 c_2nd_lang_asst_01
+.PHONY : c_2nd_lang_asst_01
 
 # fast build rule for target.
-casst/fast:
-	$(MAKE) -f CMakeFiles/casst.dir/build.make CMakeFiles/casst.dir/build
-.PHONY : casst/fast
+c_2nd_lang_asst_01/fast:
+	$(MAKE) -f CMakeFiles/c_2nd_lang_asst_01.dir/build.make CMakeFiles/c_2nd_lang_asst_01.dir/build
+.PHONY : c_2nd_lang_asst_01/fast
 
 main.o: main.c.o
 
@@ -129,7 +129,7 @@ main.o: main.c.o
 
 # target to build an object file
 main.c.o:
-	$(MAKE) -f CMakeFiles/casst.dir/build.make CMakeFiles/casst.dir/main.c.o
+	$(MAKE) -f CMakeFiles/c_2nd_lang_asst_01.dir/build.make CMakeFiles/c_2nd_lang_asst_01.dir/main.c.o
 .PHONY : main.c.o
 
 main.i: main.c.i
@@ -138,7 +138,7 @@ main.i: main.c.i
 
 # target to preprocess a source file
 main.c.i:
-	$(MAKE) -f CMakeFiles/casst.dir/build.make CMakeFiles/casst.dir/main.c.i
+	$(MAKE) -f CMakeFiles/c_2nd_lang_asst_01.dir/build.make CMakeFiles/c_2nd_lang_asst_01.dir/main.c.i
 .PHONY : main.c.i
 
 main.s: main.c.s
@@ -147,7 +147,7 @@ main.s: main.c.s
 
 # target to generate assembly for a file
 main.c.s:
-	$(MAKE) -f CMakeFiles/casst.dir/build.make CMakeFiles/casst.dir/main.c.s
+	$(MAKE) -f CMakeFiles/c_2nd_lang_asst_01.dir/build.make CMakeFiles/c_2nd_lang_asst_01.dir/main.c.s
 .PHONY : main.c.s
 
 # Help Target
@@ -157,7 +157,7 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... rebuild_cache"
-	@echo "... casst"
+	@echo "... c_2nd_lang_asst_01"
 	@echo "... edit_cache"
 	@echo "... main.o"
 	@echo "... main.i"

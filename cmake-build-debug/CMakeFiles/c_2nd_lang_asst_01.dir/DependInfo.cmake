@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/cygdrive/c/Users/Devin/sync/Programming/Schoolwork/CS2400_Projects/c-2nd-lang/main.c" "/cygdrive/c/Users/Devin/sync/Programming/Schoolwork/CS2400_Projects/c-2nd-lang/cmake-build-debug/CMakeFiles/casst.dir/main.c.o"
+  "/cygdrive/c/Users/Devin/sync/Programming/Schoolwork/CS2400_Projects/c-2nd-lang-asst-01/main.c" "/cygdrive/c/Users/Devin/sync/Programming/Schoolwork/CS2400_Projects/c-2nd-lang-asst-01/cmake-build-debug/CMakeFiles/c_2nd_lang_asst_01.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

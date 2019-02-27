@@ -1,1 +1,0 @@
-/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/casst.dir/main.c.o  -o casst.exe -Wl,--out-implib,libcasst.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
